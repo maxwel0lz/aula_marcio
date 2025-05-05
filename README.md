@@ -4,11 +4,21 @@ Este é um projeto de teste criado para fins de demonstração e aprendizado. El
 
 ## Lista de compras
 
-- 1 - Chocolate
-- 2 - Café
-- 3 - Pão
-- 4 - Quindim
-- 5 - Rosquinhas de Coco
-- 6 - Desentupidor Dragão
+## Lista Keilyn do Vitoria
 
+- Sardinha 
+- Pão 
+- Calabresa
+## Lista Iêda Mascarenhas
+- Shampoo
+- Condiciondo
+- Creme de pentenar
+- Escova
+- Reparador de pontas
 
+- Chocolate
+- Café
+- Pão
+- Quindim
+- Rosquinhas de Coco
+- Desentupidor Dragão
