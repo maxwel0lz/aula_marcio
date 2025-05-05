@@ -4,4 +4,6 @@ Este é um projeto de teste criado para fins de demonstração e aprendizado. El
 
 ## Lista de compras
 
-- 
+- Pão Frecês
+- Laranja
+- Chocolate Cacau Show
