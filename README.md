@@ -4,4 +4,8 @@ Este é um projeto de teste criado para fins de demonstração e aprendizado. El
 
 ## Lista de compras
 
-- 
+## Lista Keilyn do Vitoria
+
+- Sardinha 
+- Pão 
+- Calabresa
