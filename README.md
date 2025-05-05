@@ -5,3 +5,11 @@ Este é um projeto de teste criado para fins de demonstração e aprendizado. El
 ## Lista de compras
 
 - 
+
+
+Carnes 
+Toscana 
+Fraudinhas
+Farofa
+Salada
+amstel
