@@ -4,4 +4,11 @@ Este é um projeto de teste criado para fins de demonstração e aprendizado. El
 
 ## Lista de compras
 
-- 
+- 1 - Chocolate
+- 2 - Café
+- 3 - Pão
+- 4 - Quindim
+- 5 - Rosquinhas de Coco
+- 6 - Desentupidor Dragão
+
+
