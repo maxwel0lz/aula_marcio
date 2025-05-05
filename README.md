@@ -15,3 +15,10 @@ Este é um projeto de teste criado para fins de demonstração e aprendizado. El
 - Creme de pentenar
 - Escova
 - Reparador de pontas
+
+- Chocolate
+- Café
+- Pão
+- Quindim
+- Rosquinhas de Coco
+- Desentupidor Dragão
