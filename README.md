@@ -9,3 +9,9 @@ Este é um projeto de teste criado para fins de demonstração e aprendizado. El
 - Sardinha 
 - Pão 
 - Calabresa
+## Lista Iêda Mascarenhas
+- Shampoo
+- Condiciondo
+- Creme de pentenar
+- Escova
+- Reparador de pontas
